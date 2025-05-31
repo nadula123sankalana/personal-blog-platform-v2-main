@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://localhost:5000/api"; // Adjust if needed
+const API_BASE_URL = "server-production-d823.up.railway.app"; // Adjust if needed
 
 // Axios instance without default Content-Type header
 const api = axios.create({
