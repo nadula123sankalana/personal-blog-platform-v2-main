@@ -1,0 +1,8 @@
+/* tiptap.css */
+.ProseMirror {
+  min-height: 200px;
+  outline: none;
+  padding: 0.5rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
